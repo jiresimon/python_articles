@@ -32,7 +32,7 @@ Functions|Lowercase letters with words separated by underscores.|function, user_
 Class|Use camel casing style(capitalize every word)...Don't separate the words with an underscore.|MyPerson, GardenClub|
 Methods|Lowercase letters separated by underscores.| methods, method_notes|
 Constant|Uppercase letters separated BY underscores|CONSTANT, CONSTANT_PI
-Package|Lowercase letters and not separated by underscores|commerce, my_commerce|
+Package|Lowercase letters and not separated by underscores|commerce, mycommerce|
 
 **_Feel surprised?_**
 
