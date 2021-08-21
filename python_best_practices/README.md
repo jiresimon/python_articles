@@ -34,7 +34,7 @@ Methods|Lowercase letters separated by underscores.| methods, method_notes|
 Constant|Uppercase letters separated BY underscores|CONSTANT, CONSTANT_PI
 Package|Lowercase letters and not separated by underscores|commerce, my_commerce|
 
-                   Feel surprised?
+**_Feel surprised?_**
 
 
 ![surprised](https://media.giphy.com/media/5p2wQFyu8GsFO/giphy.gif)
